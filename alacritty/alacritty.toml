@@ -1,0 +1,51 @@
+[font]
+size = 12
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[window]
+decorations = "None"
+
+[colors.primary]
+background = "#000000"
+foreground = "#00FF00"
+dim_foreground = "#009600"
+bright_foreground = "#64FF64"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#009600"
+
+[colors.normal]
+black = "#000000"
+red = "#FF0000"
+green = "#00FF00"
+yellow = "#FFFF00"
+blue = "#0000FF"
+magenta = "#FF00FF"
+cyan = "#00FFFF"
+white = "#FFFFFF"
+
+[colors.bright]
+black = "#646464"
+red = "#FF9696"
+green = "#96FF96"
+yellow = "#FFFF96"
+blue = "#9696FF"
+magenta = "#FF96FF"
+cyan = "#96FFFF"
+white = "#BBBBBB"
